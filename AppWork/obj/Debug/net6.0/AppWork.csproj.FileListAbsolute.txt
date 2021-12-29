@@ -1,0 +1,15 @@
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\bin\Debug\net6.0\AppWork.exe
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\bin\Debug\net6.0\AppWork.deps.json
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\bin\Debug\net6.0\AppWork.runtimeconfig.json
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\bin\Debug\net6.0\AppWork.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\bin\Debug\net6.0\ref\AppWork.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\bin\Debug\net6.0\AppWork.pdb
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\obj\Debug\net6.0\AppWork.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\obj\Debug\net6.0\AppWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\obj\Debug\net6.0\AppWork.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\obj\Debug\net6.0\AppWork.AssemblyInfo.cs
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\obj\Debug\net6.0\AppWork.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\obj\Debug\net6.0\AppWork.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\obj\Debug\net6.0\ref\AppWork.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\obj\Debug\net6.0\AppWork.pdb
+C:\Users\vitor\Desktop\teste\csharp-introducao\APP de cadastro\AppWork\obj\Debug\net6.0\AppWork.genruntimeconfig.cache
